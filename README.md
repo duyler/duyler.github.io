@@ -1,1 +1,1 @@
-# duyler.github.io
+# docs
